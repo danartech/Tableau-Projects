@@ -13,7 +13,7 @@ If you have any questions or suggestions, feel free to reach out:
 
 - **Email:** [danarfintech@gmail.com](mailto:danarfintech@gmail.com)
 - **LinkedIn:** [Dana Robinson](https://www.linkedin.com/in/dana-robinson/)
-- **Tableau Profile**: [My Tableau Profile](https://public.tableau.com/app/profile/dana.robinson)
+- **Tableau Portfolio**: [My Tableau Portfolio](https://public.tableau.com/app/profile/dana.robinson)
 
 Thank you for visiting my Tableau Projects repository!
 
